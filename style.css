@@ -1,0 +1,26 @@
+body
+{
+    background-color: yellow;
+}
+
+h1
+{
+    align-content: center;
+    text-decoration: underline;
+    color: blue;
+}
+
+.assignment img
+{
+    width: 200px;
+    padding: 10px;
+    border: solid;
+    border-color: red;
+}
+
+.assignment
+{
+    display: flex;
+    padding: 10px;
+    background-color: lightblue;
+}
